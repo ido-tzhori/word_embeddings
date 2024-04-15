@@ -9,9 +9,10 @@ This project focuses on binary sentiment classification of Amazon reviews using 
 ## Instructions
 
 1. Download a dataset from the link below
-2. Pip install the necessary libraries
-3. Have the data be in the same directory as the notebook
-4. Run the code
+2. Unzip the data
+3. Pip install the necessary libraries
+4. Have the data be in the same directory as the notebook
+5. Run the code
    
 ## Dataset
 
